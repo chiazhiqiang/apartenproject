@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ConfigServer001" />
+        <module name="EurekaServer01" />
+        <module name="EurekaServer02" />
+        <module name="hystrixdashboard" />
+        <module name="UserProvdier01" />
+        <module name="UserProvdier02" />
+        <module name="UserWeb01" />
+        <module name="UserWeb02" />
+        <module name="UserWeb03" />
+        <module name="UserWeb04" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apartenproject" target="1.8" />
+      <module name="ConfigServer001" target="1.8" />
+      <module name="EurekaServer01" target="1.8" />
+      <module name="EurekaServer02" target="1.8" />
+      <module name="hystrixdashboard" target="1.8" />
+      <module name="UserProvdier01" target="1.8" />
+      <module name="UserProvdier02" target="1.8" />
+      <module name="UserWeb01" target="1.8" />
+      <module name="UserWeb02" target="1.8" />
+      <module name="UserWeb03" target="1.8" />
+      <module name="UserWeb04" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+# 设置当前springboot项目运行端口
+server:
+  port: 10087
+
+# 应用程序名字
+spring:
+  application:
+    name: EurekaServer
+
+#EurekaServer配置
+eureka:
+  client:
+    #此EurekaServer不在注册到其他的注册中心
+    register-with-eureka: false
+    #不在从其他中心中心拉取服务器信息
+    fetch-registry: false
+    #eureka客户端使用的注册中心访问地址
+    #浏览器端访问的监控中心是localhost:${server.port}
+    service-url:
+      defaultZone: http://localhost:10086/eureka
+

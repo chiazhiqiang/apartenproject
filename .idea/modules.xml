@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConfigServer001/ConfigServer001.iml" filepath="$PROJECT_DIR$/ConfigServer001/ConfigServer001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer01/EurekaServer01.iml" filepath="$PROJECT_DIR$/EurekaServer01/EurekaServer01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer02/EurekaServer02.iml" filepath="$PROJECT_DIR$/EurekaServer02/EurekaServer02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserProvdier01/UserProvdier01.iml" filepath="$PROJECT_DIR$/UserProvdier01/UserProvdier01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserProvdier02/UserProvdier02.iml" filepath="$PROJECT_DIR$/UserProvdier02/UserProvdier02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserWeb01/UserWeb01.iml" filepath="$PROJECT_DIR$/UserWeb01/UserWeb01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserWeb02/UserWeb02.iml" filepath="$PROJECT_DIR$/UserWeb02/UserWeb02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserWeb03/UserWeb03.iml" filepath="$PROJECT_DIR$/UserWeb03/UserWeb03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserWeb04/UserWeb04.iml" filepath="$PROJECT_DIR$/UserWeb04/UserWeb04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apartenproject.iml" filepath="$PROJECT_DIR$/apartenproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrixdashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrixdashboard.iml" />
+    </modules>
+  </component>
+</project>
